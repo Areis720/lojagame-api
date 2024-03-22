@@ -1,0 +1,27 @@
+table img {
+    height: 50px;
+    width: 50px;
+    
+}
+table tr{
+    background-color:black;
+    
+}
+table thead{
+    color: antiquewhite;
+    
+}
+table tbody{
+    color: antiquewhite;
+   
+}
+table {
+    height: max-content;
+}
+main {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    background-color: black;
+}
